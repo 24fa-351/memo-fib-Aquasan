@@ -78,7 +78,7 @@
       
          result = fib_i(number);
       }
-      printf ("%llu\n", number);
+      //printf ("%llu\n", number);
       printf("%llu\n", result);
      
       return 0;
